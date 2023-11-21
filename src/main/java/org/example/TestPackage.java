@@ -4,6 +4,10 @@ package org.example;
 // then press Enter. You can now see whitespace characters in your code.
 public class TestPackage {
 
+  public static void main(String[] args) {
+    print();
+  }
+
   public static void print() {
     // Press Opt+Enter with your caret at the highlighted text to see how
     // IntelliJ IDEA suggests fixing it.
